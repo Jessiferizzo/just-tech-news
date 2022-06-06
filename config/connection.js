@@ -15,3 +15,5 @@ if (process.env.JAWSDB_URL) {
 }
 
 module.exports = sequelize;
+
+//https://fathomless-ridge-51023.herokuapp.com/
